@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import Nav from "./components/Nav.js"
-import Header from "./components/Header.js"
-import BookingForm from "./components/BookingForm.js"
+import Main from "./components/Main.js"
+import Menu from "./components/Menu.js"
 function App() {
   return (
     <>
       <Nav/>
-      <Header/>
-      <BookingForm/>
+      <Main/>
+      <Menu/>
     </>
   );
 }
