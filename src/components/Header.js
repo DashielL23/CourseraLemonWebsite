@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import bannerImg from '../images/restauranfood.jpg'
+import bannerImg from '../images/food1.avif'
 const Header = () =>{
     return(
         <div className='header'>
